@@ -1,0 +1,83 @@
+#folha
+{
+	width:595px;
+	height: 842px;
+	margin:auto;
+	position:relative;
+}
+
+#perfilfoto
+{
+	width:120px;
+	height:120px;
+	float:left;
+	margin-top: 60px;
+	margin-left: 30px;
+}
+#nome
+{
+	float:left;
+	margin-top: 80px;
+	margin-left: 50px;
+	font-family: arial;
+}
+#data
+{
+	position: absolute;
+	margin-top: 130px;
+	margin-left: 200px;	
+	
+}
+.enunciado
+{
+	position: absolute;
+	margin-top: 195px;
+	margin-left: 30px;
+	width: 505px;
+}
+.enunciado h1
+{
+	margin: 0;
+	font-size: 20px;
+}
+.separar
+{
+	height: 1px;
+	width: 100%;
+	color: black;
+	background: black;
+}
+.dados
+{
+	margin:0;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.enunciado2
+{
+	margin-top: 15px;
+	width: 505px;
+}
+.enunciado2 h1
+{
+	margin:0;
+	font-size: 20px;
+}
+.enunciado2 h3
+{
+	margin: 0;
+}
+.enunciado3
+{
+	margin-top: 15px;
+	width:505px;
+}
+.enunciado3 h3
+{
+	margin-top:10px;
+}
+.enunciado4
+{
+	margin-top: 15px;
+	width: 505px;
+}
